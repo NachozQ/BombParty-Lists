@@ -10,6 +10,7 @@
 * ~~:straight_ruler: **longs**~~
 * ~~:stars: **adverbs**~~
 * ~~:label: **adjectives**~~
+* ~~:seedling: **plants**~~
 <br>*OTHER:*
 * :blueberries: **berries**.txt: 184
 * :ship: **nordic**.txt 77 (missing tons of words)
