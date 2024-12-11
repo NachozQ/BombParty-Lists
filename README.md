@@ -22,7 +22,7 @@ HMU if you've got any words that are missing or know if any words have been remo
 The hyphen list was accumulated mostly using ZapBot and older lists.<br>
 Berries are my favorite solves so with the help of ZapBot I got all of them (I think).<br>
 RegEx for phobias I use: phob(e|i(a|c))s?<br>
+The main categories are according to SariaBot's categories.
 
 > [!CAUTION]
-> *Disclaimer*
-> Might contain offensive words, but this is NOT intended to offend people. Just to compile word lists, sorry if this offends anyone.
+> Might contain offensive words, but this is NOT intended to offend people. Just to compile word lists.
