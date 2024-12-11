@@ -21,9 +21,8 @@ HMU if you've got any words that are missing or know if any words have been remo
 
 The hyphen list was accumulated mostly using ZapBot and older lists.<br>
 Berries are my favorite solves so with the help of ZapBot I got all of them (I think).<br>
-RegEx for phobias since there's no keyword for it is: phob(e|i(a|c))s?<br>
-Since at the moment RegEx range like [a-z] doesn't work on SariaBot I'm not going to update <br>
-the lists frequently, specially also since they're updated regularly.
+RegEx for phobias I use: phob(e|i(a|c))s?<br>
 
-*Disclaimer*:
-Might contain offensive words, but this is NOT intended to offend people. Just to compile word lists, sorry if this offends anyone.
+> [!CAUTION]
+> *Disclaimer*
+> Might contain offensive words, but this is NOT intended to offend people. Just to compile word lists, sorry if this offends anyone.
