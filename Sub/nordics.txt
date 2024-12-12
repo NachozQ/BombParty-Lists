@@ -2,6 +2,7 @@ Aesir
 Aquavit
 Aquavits
 Borealis
+Draugar
 Fisk
 Fisked
 Fisking
@@ -39,6 +40,8 @@ Lutfisks
 Mead
 Meatball
 Meatballs
+Nisse
+Nisses
 Pinnekjott
 Reindeer
 Roe
@@ -51,6 +54,8 @@ Schnapps
 Schnappses
 Schnaps
 Schnapses
+Selkie
+Selkies
 Skald
 Skaldic
 Skalds
@@ -58,6 +63,8 @@ Ski
 Skier
 Skiing
 Skiings
+Skog
+Skogs
 Skyr
 Skyrs
 Slalom

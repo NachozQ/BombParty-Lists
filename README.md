@@ -8,8 +8,8 @@
 * 🍔 **foods**.txt: 6156/6749
 * 🕷 **phobias**.txt: 1366/1733???
 * 🎸 **instruments**.txt: 1279/1279
-* 📏 **longs**.txt: 577/1021
-* :test_tube: **chemicals**.txt: 391/4226
+* 📏 **longs**.txt: 1021/1021
+* :test_tube: **chemicals**.txt: 470/4226
 * 🦋 **creatures**.txt: 330/9580
 * :rock: **minerals**.txt: 306/2479
 * ~~🌠 **adverbs**~~
@@ -18,9 +18,9 @@
 
 **Sub-categories:**
 
-* :one: **sub1**.txt: 197
+* 1️⃣ **sub1**.txt: 197
 * :blueberries: **berries**.txt: 184
-* 🚢 **nordic**.txt 77 (missing tons of words)
+* 🚢 **nordic**.txt 84 (missing tons of words)
 
 ## Information
 
