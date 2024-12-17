@@ -4,17 +4,17 @@
 
 **Main-categories:**
 
-* 🔗 **hyphens**.txt:  <sup>8483</sup>/<sub>8483</sub>
-* 🍔 **foods**.txt:  <sup>6156</sup>/<sub>6749</sub>
-* 🕷 **phobias**.txt:  <sup>1366</sup>/<sub>1703</sub>
-* 🎸 **instruments**.txt:  <sup>1279</sup>/<sub>1279</sub>
-* 📏 **longs**.txt:  <sup>1021</sup>/<sub>1021</sub>
-* :test_tube: **chemicals**.txt:  <sup>470</sup>/<sub>4226</sub>
-* 🦋 **creatures**.txt:  <sup>330</sup>/<sub>9580</sub>
-* :rock: **minerals**.txt:  <sup>306</sup>/<sub>2479</sub>
-* ~~🌠 **adverbs**~~
-* ~~🌱 **plants**~~
-* ~~🏷 **adjectives**~~
+* 🔗 **hyphens**.txt:  `<sup>`8483 `</sup>`/`<sub>`8483 `</sub>`
+* 🍔 **foods**.txt:  `<sup>`6156 `</sup>`/`<sub>`6749 `</sub>`
+* 🕷 **phobias**.txt:  `<sup>`1366 `</sup>`/`<sub>`1703 `</sub>`
+* 🎸 **instruments**.txt:  `<sup>`1279 `</sup>`/`<sub>`1279 `</sub>`
+* 📏 **longs**.txt:  `<sup>`1021 `</sup>`/`<sub>`1021 `</sub>`
+* :test_tube: **chemicals**.txt:  `<sup>`470 `</sup>`/`<sub>`4226 `</sub>`
+* 🦋 **creatures**.txt:  `<sup>`3731 `</sup>`/`<sub>`9580 `</sub>`
+* :rock: **minerals**.txt:  `<sup>`306 `</sup>`/`<sub>`2479 `</sub>`
+* 🌠 **adverbs**.txt `<sup>`0 `</sup>`/`<sub>`?`</sub>`
+* 🌱 **plants**.txt `<sup>`0 `</sup>`/`<sub>`?`</sub>`
+* 🏷 **adjectives**.txt `<sup>`0 `</sup>`/`<sub>`?`</sub>`
 
 **Sub-categories:**
 
