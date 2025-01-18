@@ -18,6 +18,7 @@ Acrophobes
 Acrophobia
 Acrophobias
 Acrophobic
+Acrophobics
 Aeroacrophobe
 Aeroacrophobes
 Aeroacrophobia
@@ -45,6 +46,7 @@ Agoraphobes
 Agoraphobia
 Agoraphobias
 Agoraphobic
+Agoraphobics
 Agraphobia
 Agraphobias
 Agrizoophobia
@@ -92,6 +94,8 @@ Anginophobias
 Anglophobe
 Anglophobes
 Anglophobia
+Anglophobiac
+Anglophobiacs
 Anglophobias
 Anglophobic
 Angrophobia
@@ -110,6 +114,7 @@ Anthropophobes
 Anthropophobia
 Anthropophobias
 Anthropophobic
+Anthropophobics
 Anti-homophobia
 Anti-homophobic
 Anti-transphobia
@@ -149,6 +154,7 @@ Aquaphobes
 Aquaphobia
 Aquaphobias
 Aquaphobic
+Aquaphobics
 Arachibutyrophobe
 Arachibutyrophobes
 Arachibutyrophobia
@@ -159,6 +165,7 @@ Arachnophobes
 Arachnophobia
 Arachnophobias
 Arachnophobic
+Arachnophobics
 Arithmophobe
 Arithmophobes
 Arithmophobia
@@ -444,6 +451,7 @@ Computerphobes
 Computerphobia
 Computerphobias
 Computerphobic
+Computerphobics
 Coulrophobe
 Coulrophobes
 Coulrophobia
@@ -725,6 +733,7 @@ Gynophobes
 Gynophobia
 Gynophobias
 Gynophobic
+Gynophobics
 Haematophobe
 Haematophobes
 Haematophobia
@@ -763,6 +772,7 @@ Heliophobes
 Heliophobia
 Heliophobias
 Heliophobic
+Heliophobics
 Helminthophobe
 Helminthophobes
 Helminthophobia
@@ -793,6 +803,7 @@ Hierophobes
 Hierophobia
 Hierophobias
 Hierophobic
+Hierophobics
 Hinduphobe
 Hinduphobes
 Hinduphobia
@@ -833,6 +844,8 @@ Hydrophobes
 Hydrophobia
 Hydrophobias
 Hydrophobic
+Hydrophobicities
+Hydrophobicity
 Hylophobe
 Hylophobes
 Hylophobia
@@ -854,6 +867,8 @@ Iatrophobia
 Iatrophobias
 Iatrophobic
 Icephobic
+Icephobicities
+Icephobicity
 Ichthyophobe
 Ichthyophobes
 Ichthyophobia
@@ -1044,6 +1059,7 @@ Monophobes
 Monophobia
 Monophobias
 Monophobic
+Monophobics
 Motorphobe
 Motorphobes
 Motorphobia
@@ -1140,8 +1156,11 @@ Obesophobia
 Obesophobias
 Obesophobic
 Ochlophobia
+Ochlophobiac
+Ochlophobiacs
 Ochlophobias
 Ochlophobic
+Ochlophobics
 Ochophobe
 Ochophobes
 Ochophobia
@@ -1292,6 +1311,7 @@ Phasmophobes
 Phasmophobia
 Phasmophobias
 Phasmophobic
+Phasmophobics
 Phengophobe
 Phengophobes
 Phengophobia
@@ -1317,6 +1337,7 @@ Phobes
 Phobia
 Phobias
 Phobic
+Phobics
 Phobophobe
 Phobophobes
 Phobophobia
@@ -1382,6 +1403,7 @@ Pyrophobes
 Pyrophobia
 Pyrophobias
 Pyrophobic
+Pyrophobics
 Queerphobia
 Queerphobias
 Radiophobe
@@ -1507,6 +1529,8 @@ Spheksophobic
 Superhydrophobe
 Superhydrophobes
 Superhydrophobic
+Superhydrophobicities
+Superhydrophobicity
 Suriphobe
 Suriphobes
 Suriphobia
@@ -1539,6 +1563,7 @@ Technophobes
 Technophobia
 Technophobias
 Technophobic
+Technophobics
 Teleophobe
 Teleophobes
 Teleophobia
@@ -1572,6 +1597,8 @@ Thanatophobic
 Theophobe
 Theophobes
 Theophobia
+Theophobiac
+Theophobiacs
 Theophobias
 Theophobic
 Thermophobe
@@ -1661,6 +1688,8 @@ Turkophobic
 Ultrahydrophobe
 Ultrahydrophobes
 Ultrahydrophobic
+Ultrahydrophobicities
+Ultrahydrophobicity
 Vaccinophobe
 Vaccinophobes
 Vaccinophobia
@@ -1696,6 +1725,7 @@ Zelophobes
 Zelophobia
 Zelophobias
 Zelophobic
+Zelophobics
 Zoophobe
 Zoophobes
 Zoophobia

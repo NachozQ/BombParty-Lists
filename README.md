@@ -4,19 +4,19 @@
 
 **Main-categories:**
 
-* 🔗 **hyphens**.txt &emsp; <sup>8483 </sup>/<sub> 8483</sub>
-* 🍔 **foods**.txt &emsp; <sup>6815 </sup>/<sub> 6815</sub>
-* 🕷 **phobias**.txt &emsp; <sup>1703 </sup>/<sub> 1733</sub>
-* 🎸 **instruments**.txt &emsp; <sup>1278 </sup>/<sub> 1278</sub>
-* 📏 **longs**.txt &emsp; <sup>1021 </sup>/<sub> 1021</sub>
-* :test_tube: **chemicals**.txt &emsp; <sup>470 </sup>/<sub> 4226</sub>
-* 🦋 **creatures**.txt &emsp; <sup>7395 </sup>/<sub> 9639</sub>
-* :rock: **minerals**.txt &emsp; <sup>306 </sup>/<sub> 2296</sub>
-* 🌠 **adverbs**.txt &emsp; <sup>0 </sup>/<sub> 10303</sub>
-* 🌱 **plants**.txt &emsp; <sup>0 </sup>/<sub> 7180</sub>
-* 🏷 **adjectives**.txt &emsp; <sup>0 </sup>/<sub> 45922</sub>
-* 💢 **Insults**.txt &emsp; <sup>183 </sup>/<sub> ???</sub>
-* 📚 **Professions**.txt &emsp; <sup>204 </sup>/<sub> ???</sub>
+* 🔗 **hyphens**.txt &emsp; `<sup>`8483 `</sup>`/`<sub>` 8483 `</sub>`
+* 🍔 **foods**.txt &emsp; `<sup>`6815 `</sup>`/`<sub>` 6815 `</sub>`
+* 🕷 **phobias**.txt &emsp; `<sup>`1733 `</sup>`/`<sub>` 1733 `</sub>`
+* 🎸 **instruments**.txt &emsp; `<sup>`1278 `</sup>`/`<sub>` 1278 `</sub>`
+* 📏 **longs**.txt &emsp; `<sup>`1021 `</sup>`/`<sub>` 1021 `</sub>`
+* :test_tube: **chemicals**.txt &emsp; `<sup>`470 `</sup>`/`<sub>` 4226 `</sub>`
+* 🦋 **creatures**.txt &emsp; `<sup>`7395 `</sup>`/`<sub>` 9639 `</sub>`
+* :rock: **minerals**.txt &emsp; `<sup>`2296 `</sup>`/`<sub>` 2296 `</sub>`
+* 🌠 **adverbs**.txt &emsp; `<sup>`0 `</sup>`/`<sub>` 10303 `</sub>`
+* 🌱 **plants**.txt &emsp; `<sup>`0 `</sup>`/`<sub>` 7180 `</sub>`
+* 🏷 **adjectives**.txt &emsp; `<sup>`0 `</sup>`/`<sub>` 45922 `</sub>`
+* 💢 **Insults**.txt &emsp; `<sup>`183 `</sup>`/`<sub>` ???`</sub>`
+* 📚 **Professions**.txt &emsp; `<sup>`204 `</sup>`/`<sub>` ???`</sub>`
 
 **Sub-categories:**
 
