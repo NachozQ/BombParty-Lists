@@ -4,25 +4,28 @@
 
 **Main-categories:**
 
-* 🔗 **hyphens**.txt &emsp; `<sup>`8483 `</sup>`/`<sub>` 8483 `</sub>`
-* 🍔 **foods**.txt &emsp; `<sup>`6815 `</sup>`/`<sub>` 6815 `</sub>`
-* 🕷 **phobias**.txt &emsp; `<sup>`1733 `</sup>`/`<sub>` 1733 `</sub>`
-* 🎸 **instruments**.txt &emsp; `<sup>`1278 `</sup>`/`<sub>` 1278 `</sub>`
-* 📏 **longs**.txt &emsp; `<sup>`1021 `</sup>`/`<sub>` 1021 `</sub>`
-* :test_tube: **chemicals**.txt &emsp; `<sup>`470 `</sup>`/`<sub>` 4226 `</sub>`
-* 🦋 **creatures**.txt &emsp; `<sup>`7395 `</sup>`/`<sub>` 9639 `</sub>`
-* :rock: **minerals**.txt &emsp; `<sup>`2296 `</sup>`/`<sub>` 2296 `</sub>`
-* 🌠 **adverbs**.txt &emsp; `<sup>`0 `</sup>`/`<sub>` 10303 `</sub>`
-* 🌱 **plants**.txt &emsp; `<sup>`0 `</sup>`/`<sub>` 7180 `</sub>`
-* 🏷 **adjectives**.txt &emsp; `<sup>`0 `</sup>`/`<sub>` 45922 `</sub>`
-* 💢 **Insults**.txt &emsp; `<sup>`183 `</sup>`/`<sub>` ???`</sub>`
-* 📚 **Professions**.txt &emsp; `<sup>`204 `</sup>`/`<sub>` ???`</sub>`
+| Category                  | Current | Total |
+| ------------------------- |  ------ |  ---- |
+| 🔗 **hyphens**           | $$\color{green}{8483}$$   | 8483  |
+| 🍔 **foods**             | $$\color{green}{6815}$$   | 6815   |
+| :rock: **minerals**       | $$\color{green}{2296}$$    | 2296      |
+| 🕷 **phobias**            | $$\color{green}{1733}$$   | 1733      |
+| 🎸 **instruments**       | $$\color{green}{1278}$$   | 1278      |
+| 📏 **longs**             | $$\color{green}{1021}$$   | 1021      |
+| 🦋 **creatures**         | $$\color{lightgreen}{7395}$$   | 9639      |
+| :test_tube: **chemicals** | $$\color{orange}{470}$$    | 4226      |
+| 🌱 **plants**             | $$\color{red}{0}$$   | 7180      |
+| 🌠 **adverbs**            | $$\color{red}{0}$$   | 10303      |
+| 🏷 **adjectives**         | $$\color{red}{0}$$  | 45922      |
+| 💢 **Insults**           | $$\color{red}{183}$$   | ???      |
+| 📚 **Professions**       | $$\color{red}{204}$$   | ???      |
 
 **Sub-categories:**
-
-* 1️⃣ **sub1**.txt: 197
-* :blueberries: **berries**.txt: 184
-* 🚢 **nordic**.txt 84 (missing tons of words)
+| Category                  | Current |
+| ------------------------- |  ------ |
+| 1️⃣ **sub1**               | 197    |
+| :blueberries: **berries** | 184     |
+| 🚢 **nordic**             | 84     |
 
 ## Information
 
