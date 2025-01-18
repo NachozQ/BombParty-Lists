@@ -2,10 +2,10 @@
 
 ## Contents
 
-**Main-categories:**
+### **Main-categories:**
 
 | Category                  | Current | Total |
-| ------------------------- |  ------ |  ---- |
+| ------------------------- |  -----: |  ---: |
 | 🔗 **hyphens**           | $$\color{green}{8483}$$   | 8483  |
 | 🍔 **foods**             | $$\color{green}{6815}$$   | 6815   |
 | :rock: **minerals**       | $$\color{green}{2296}$$    | 2296      |
@@ -17,15 +17,15 @@
 | 🌱 **plants**             | $$\color{red}{0}$$   | 7180      |
 | 🌠 **adverbs**            | $$\color{red}{0}$$   | 10303      |
 | 🏷 **adjectives**         | $$\color{red}{0}$$  | 45922      |
-| 💢 **Insults**           | $$\color{red}{183}$$   | ???      |
-| 📚 **Professions**       | $$\color{red}{204}$$   | ???      |
+| 💢 **Insults**           | $$\color{red}{183}$$   | ?      |
+| 📚 **Professions**       | $$\color{red}{204}$$   | ?      |
 
-**Sub-categories:**
+### **Sub-categories:**
 | Category                  | Current |
-| ------------------------- |  ------ |
-| 1️⃣ **sub1**               | 197    |
+| ------------------------- |  -----: |
+| 1️⃣ **sub1**               | 197     |
 | :blueberries: **berries** | 184     |
-| 🚢 **nordic**             | 84     |
+| 🚢 **nordic**             | 84      |
 
 ## Information
 
