@@ -1,5 +1,4 @@
-
-$\color{green}{197}$# BombParty Lists
+# BombParty Lists
 
 ## Contents
 
