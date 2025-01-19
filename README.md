@@ -22,16 +22,16 @@
 
 ### **Sub-categories:**
 
-| Category     |                  Current | Total |
-| ------------ | -----------------------: | ----: |
-| 8️⃣**SN**    | $\color{red}{2271}$ |  8537 |
-| 7️⃣**sub 7** | $\color{orangered}{2271}$ |  7276 |
-| 6️⃣**sub 6** | $\color{orange}{2271}$ |  6416 |
-| 5️⃣**sub 5** | $\color{yellow}{2271}$ |  4853 |
-| 4️⃣**sub 4** | $\color{yellow}{2271}$ |  4081 |
-| 3️⃣**sub 3** | $\color{green}{2271}$ |  2271 |
-| 2️⃣**sub 2** |  $\color{green}{1745}$ |  1745 |
-| 1️⃣**sub 1** |   $\color{green}{197}$ |   197 |
+| Category             |                      Current | Total |
+| -------------------- | ---------------------------: | ----: |
+| 8️⃣**SN**    |  $\color{orangered}{4853}$ |  8537 |
+| 7️⃣**sub 7** |     $\color{yellow}{4853}$ |  7276 |
+| 6️⃣**sub 6** | $\color{Lightgreen}{4853}$ |  6416 |
+| 5️⃣**sub 5** |      $\color{green}{4853}$ |  4853 |
+| 4️⃣**sub 4** |      $\color{green}{4081}$ |  4081 |
+| 3️⃣**sub 3** |      $\color{green}{2271}$ |  2271 |
+| 2️⃣**sub 2** |      $\color{green}{1745}$ |  1745 |
+| 1️⃣**sub 1** |       $\color{green}{197}$ |   197 |
 
 ### **Personal-categories:**
 
@@ -39,12 +39,12 @@
 | ------------------------------ | ------: |
 | :blueberries:**berries** |     184 |
 | 🚢**nordic**             |      84 |
-| 🏈**sports**             |      0 |
-| 🦵**anatomy**          |      0 |
-| 🗺**geography**          |      0 |
-| 🔣**apostrophe**          |      0 |
-| 🧙‍♂️**fantasy**          |      0 |
-| 👩‍💻**technology**          |      0 |
+| 🏈**sports**             |       0 |
+| 🦵**anatomy**            |       0 |
+| 🗺**geography**          |       0 |
+| 🔣**apostrophe**         |       0 |
+| 🧙‍♂️**fantasy**      |       0 |
+| 👩‍💻**technology**     |       0 |
 
 ## Information
 

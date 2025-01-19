@@ -505,7 +505,7 @@ Fuhgeddaboudit
 Funduq
 Funduqs
 Fuqaha
-fuqaha'
+Fuqaha'
 Fuyu
 Fuyus
 Fuzztone
@@ -677,7 +677,7 @@ Hymnbooks
 Iiwi
 Iiwis
 Ijma
-ijma'
+Ijma'
 Ijtihad
 Ijtihads
 Ikhfa
@@ -960,8 +960,8 @@ Mozartkugel
 Mozartkugeln
 Mrdanga
 Mrdangas
-mu'adhdhin
-mu'adhdhins
+Mu'adhdhin
+Mu'adhdhins
 Mudjacking
 Mudjackings
 Mudpuppies

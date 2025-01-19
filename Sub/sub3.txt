@@ -38,7 +38,7 @@ Ajza'
 Akvavit
 Akvavits
 Alfvenic
-alzheimer's
+Alzheimer's
 Amritdhari
 Amritdharis
 Amtman
@@ -661,7 +661,7 @@ Fuhgeddaboudit
 Funduq
 Funduqs
 Fuqaha
-fuqaha'
+Fuqaha'
 Fuyu
 Fuyus
 Fuzztone
@@ -866,7 +866,7 @@ Howlrounds
 Hryvnya
 Hryvnyas
 Hukm
-humuhumunukunukuapua'a
+Humuhumunukunukuapua'a
 Huoguo
 Huqin
 Hwyl
@@ -890,7 +890,7 @@ Hypnagogic
 Iiwi
 Iiwis
 Ijma
-ijma'
+Ijma'
 Ijtihad
 Ijtihads
 Ikhfa
@@ -911,7 +911,7 @@ Inqilab
 Inqilabs
 Intraovarian
 Iqta
-iqta'
+Iqta'
 Iqtas
 Isoquinoline
 Isoquinolines
@@ -963,7 +963,7 @@ Juetengs
 Jugsful
 Juvy
 Juz
-juz'
+Juz'
 Juzu
 Jynx
 Jynxes
@@ -1226,7 +1226,7 @@ Millijoules
 Minxy
 Miqra
 Miqras
-miqva'ot
+Miqva'ot
 Miqvaot
 Miqvaoth
 Miqveh
@@ -1264,9 +1264,9 @@ Mozartkugeln
 Mrdanga
 Mrdangas
 Mtsvane
-mu'adhdhin
-mu'adhdhins
-mu'aqqibat
+Mu'adhdhin
+Mu'adhdhins
+Mu'aqqibat
 Mubah
 Muban
 Mubans
@@ -1668,7 +1668,7 @@ Remex
 Remuage
 Remuages
 Reqa
-reqa'
+Reqa'
 Revhead
 Revheads
 Revuist
