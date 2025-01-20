@@ -7,6 +7,8 @@ Fisk
 Fisked
 Fisking
 Fisks
+Fjeld
+Fjelds
 Fjord
 Fjordic
 Fjords
@@ -16,6 +18,7 @@ Glogg
 Gloggs
 Gravlax
 Gravlaxes
+Hygge
 Jarl
 Jarldom
 Jarldoms
@@ -33,6 +36,8 @@ Lefses
 Lihapiirakka
 Lobscouse
 Lobscouses
+Longship
+Longships
 Lutefisk
 Lutefisks
 Lutfisk
@@ -42,6 +47,7 @@ Meatball
 Meatballs
 Nisse
 Nisses
+Norse
 Pinnekjott
 Reindeer
 Roe
@@ -76,6 +82,10 @@ Slalomist
 Slalomists
 Snaps
 Stockfish
+Thrall
+Thralldom
+Thralldoms
+Thralls
 Troll
 Trolls
 Valkyrie

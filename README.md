@@ -38,11 +38,11 @@
 | Category                       | Current |
 | ------------------------------ | ------: |
 | :blueberries:**berries** |     184 |
-| 🚢**nordic**             |      84 |
+| 🚢**nordic**             |      94 |
 | 🏈**sports**             |       0 |
-| 🦵**anatomy**            |       0 |
+| 🦵**body**               |     267 |
 | 🗺**geography**          |       0 |
-| 🔣**apostrophe**         |       0 |
+| 🔣**apostrophe**         | 334/334 |
 | 🧙‍♂️**fantasy**      |       0 |
 | 👩‍💻**technology**     |       0 |
 
