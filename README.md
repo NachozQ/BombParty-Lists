@@ -17,21 +17,21 @@
 | 🌱**plants**      | $\color{orangered}{679}$ |  7180 |
 | 🌠**adverbs**     |         $\color{red}{0}$ | 10303 |
 | 🏷**adjectives**  |         $\color{red}{0}$ | 45922 |
-| 💢**Insults**     |      $\color{gray}{183}$ |     ? |
-| 📚**Professions** |      $\color{gray}{204}$ |     ? |
+| 💢**Insults**     |      $\color{gray}{312}$ |     ? |
+| 📚**Professions** |      $\color{gray}{208}$ |     ? |
 
 ### **Sub-categories:**
 
-| Category             |                      Current | Total |
-| -------------------- | ---------------------------: | ----: |
-| 8️⃣**SN**    | $\color{lightgreen}{6416}$ |  8537 |
-| 7️⃣**sub 7** | $\color{lightgreen}{6416}$ |  7276 |
-| 6️⃣**sub 6** |      $\color{green}{6416}$ |  6416 |
-| 5️⃣**sub 5** |      $\color{green}{4853}$ |  4853 |
-| 4️⃣**sub 4** |      $\color{green}{4081}$ |  4081 |
-| 3️⃣**sub 3** |      $\color{green}{2271}$ |  2271 |
-| 2️⃣**sub 2** |      $\color{green}{1745}$ |  1745 |
-| 1️⃣**sub 1** |       $\color{green}{197}$ |   197 |
+| Category                |                      Current | Total |
+| ----------------------- | ---------------------------: | ----: |
+| 8️⃣**sub 8/SN** | $\color{lightgreen}{7276}$ |  8537 |
+| 7️⃣**sub 7**    |      $\color{green}{7276}$ |  7276 |
+| 6️⃣**sub 6**    |      $\color{green}{6416}$ |  6416 |
+| 5️⃣**sub 5**    |      $\color{green}{4853}$ |  4853 |
+| 4️⃣**sub 4**    |      $\color{green}{4081}$ |  4081 |
+| 3️⃣**sub 3**    |      $\color{green}{2271}$ |  2271 |
+| 2️⃣**sub 2**    |      $\color{green}{1745}$ |  1745 |
+| 1️⃣**sub 1**    |       $\color{green}{197}$ |   197 |
 
 ### **Personal-categories:**
 

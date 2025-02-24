@@ -46,6 +46,7 @@ Counterdemonstrator
 Counterdemonstrators
 Countrywoman
 Countrywomen
+Craftman
 Deathsman
 Deathsmen
 Decologist
@@ -82,6 +83,7 @@ Henchwoman
 Henchwomen
 Hodman
 Hodmen
+Huntsmen
 Journalist
 Journalists
 Laundrywoman
@@ -158,6 +160,7 @@ Reddleman
 Reddlemen
 Routeman
 Routemen
+Salaryman
 Scientist
 Scientists
 Seawoman
@@ -182,6 +185,7 @@ Superman
 Supermen
 Taximan
 Taximen
+Taxman
 Therapist
 Therapists
 Tidesman
